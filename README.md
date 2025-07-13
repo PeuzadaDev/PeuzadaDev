@@ -154,6 +154,7 @@ Me chamo Pedro Nascimento Silva, mas no meio tecnológico sou conhecido como Peu
 
 
 ### 📷 Ultimos vídeos do Canal
+</br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ava 100%](https://ytcards.demolab.com/?id=tErXFerXlSQ&title=ava+100%25&lang=en&timestamp=1751038377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ava 100%")](https://www.youtube.com/watch?v=tErXFerXlSQ)
