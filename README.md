@@ -26,7 +26,7 @@ Me chamo Pedro Nascimento Silva, mas no meio tecnológico sou conhecido como Peu
             src="https://custom-icon-badges.demolab.com/github/stars/PeuzadaDev?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/PeuzadaDev?tab=followers">
+    <a href="https://github.com/peuzadadev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
