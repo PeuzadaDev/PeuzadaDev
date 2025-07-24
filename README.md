@@ -157,7 +157,5 @@ Me chamo Pedro Nascimento Silva, mas no meio tecnológico sou conhecido como Peu
 </br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![ava 100%](https://ytcards.demolab.com/?id=tErXFerXlSQ&title=ava+100%25&lang=en&timestamp=1751038377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ava 100%")](https://www.youtube.com/watch?v=tErXFerXlSQ)
-[![AVA 100% parte 2](https://ytcards.demolab.com/?id=8AI_7zINwlw&title=AVA+100%25+parte+2&lang=en&timestamp=1751038373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AVA 100% parte 2")](https://www.youtube.com/watch?v=8AI_7zINwlw)
-[![Sistemas de Trocas | Venda de itens | MInecraft Bedrock](https://ytcards.demolab.com/?id=v_Z5Rg4ef3Q&title=Sistemas+de+Trocas+%7C+Venda+de+itens+%7C+MInecraft+Bedrock&lang=en&timestamp=1748039533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sistemas de Trocas | Venda de itens | MInecraft Bedrock")](https://www.youtube.com/watch?v=v_Z5Rg4ef3Q)
+
 <!-- END YOUTUBE-CARDS -->
